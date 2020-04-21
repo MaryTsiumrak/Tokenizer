@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Words Counter</string>
+    <string name="button">Submit</string>
+    <string name="textview">Enter your text</string>
+    <string name="output">Lets count words.....</string>
+    <string name="resultLine">Noumber of words is \t</string>
+
+</resources>
